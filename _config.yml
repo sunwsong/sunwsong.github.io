@@ -30,7 +30,7 @@ github_username:  sunwsong
 
 # Build settings
 # theme: minima
-remote_theme: aterenin/minima-reboot
+remote_theme: TMaize/tmaize-blog
 plugins:
   - jekyll-feed
 
